@@ -3,6 +3,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPen, faFloppyDisk, faTrash } from '@fortawesome/free-solid-svg-icons';
 import './App.css';
 import { v4 as uuidv4 } from 'uuid';
+//deneme
+//deneme2
+//deneme3
 
 function App() {
   const [todo, setTodo] = useState(''); /* todo inputa yazılan metinleri tutar */
